@@ -11,9 +11,14 @@
     "support": {
         "issues": "https://github.com/dbrekelmans/coding-standard/issues"
     },
+    "type": "phpcodesniffer-standard",
     "require": {
+        "php": "^7.2",
         "doctrine/coding-standard": "^6.0",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
         "squizlabs/php_codesniffer": "^3.4"
+    },
+    "config": {
+        "sort-packages": true
     }
 }
