@@ -1,4 +1,16 @@
 {
+    "name": "dbrekelmans/coding-standard",
+    "description": "Coding standard heavily based on Doctrine coding standard.",
+    "authors": [
+        {
+            "name": "Daniël Brekelmans",
+            "homepage": "https://github.com/dbrekelmans"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/dbrekelmans/coding-standard/issues"
+    },
     "require": {
         "doctrine/coding-standard": "^6.0",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",

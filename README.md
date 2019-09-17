@@ -1,2 +1,2 @@
 # coding-standard
-Doctrine coding standard with minor modifications
+Coding standard heavily based on Doctrine coding standard.
