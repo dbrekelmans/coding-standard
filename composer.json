@@ -1,0 +1,7 @@
+{
+    "require": {
+        "doctrine/coding-standard": "^6.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+        "squizlabs/php_codesniffer": "^3.4"
+    }
+}
