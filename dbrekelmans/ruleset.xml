@@ -61,7 +61,7 @@
                 "/>
                 <element value="
                     @psalm-return,
-                    @phpstan-return
+                    @phpstan-return,
                     @return
                 "/>
                 <element value="
