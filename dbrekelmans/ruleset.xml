@@ -23,6 +23,9 @@
         <properties>
             <property name="annotationsGroups" type="array">
                 <element value="
+                    @method
+                "/>
+                <element value="
                     @psalm-template,
                     @phpstan-template,
                     @template
